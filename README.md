@@ -10,7 +10,8 @@
  
 ## Computer Skills
  
-* openAi
+* chatGPT
+
  
 ## Interests
  
